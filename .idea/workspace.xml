@@ -59,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673800493803</updated>
-      <workItem from="1673800497402" duration="2322000" />
+      <workItem from="1673800497402" duration="2844000" />
     </task>
     <task id="LOCAL-00001" summary="Configured and finalized pom filee">
       <created>1673804460593</created>
@@ -82,7 +82,28 @@
       <option name="project" value="LOCAL" />
       <updated>1673804567276</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Finalized Save Form">
+      <created>1673804989789</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1673804989789</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Finalized Text editor fxml">
+      <created>1673805037135</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1673805037135</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Create and finalizer css part from save-form css">
+      <created>1673805103266</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1673805103266</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,6 +113,9 @@
     <MESSAGE value="Configured and finalized pom filee" />
     <MESSAGE value="Finalized AppInitialzer" />
     <MESSAGE value="Finalized Launcher class file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finalized Launcher class file" />
+    <MESSAGE value="Finalized Save Form" />
+    <MESSAGE value="Finalized Text editor fxml" />
+    <MESSAGE value="Create and finalizer css part from save-form css" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create and finalizer css part from save-form css" />
   </component>
 </project>
